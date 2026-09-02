@@ -96,25 +96,6 @@ Internal employee management dashboard for monitoring and managing personnel dat
 
 <td width="50%">
 
-### 🔔 Remindly
-
-Reminder application designed to help users manage tasks and scheduled reminders.
-
-**Tech Stack**
-
-`Python` `FastAPI` `SQLAlchemy`  
-`JWT` `Database`
-
-<a href="https://github.com/yasuyyy16/Remindly">
-  <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
 <td width="50%">
 
 ### ❤️ Heart Failure Prediction
