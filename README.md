@@ -169,30 +169,49 @@ Explore my repositories to see other experiments, coursework, applications, and 
 
 # 🧠 What I'm Exploring
 
-```text
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  🌐 Modern Web Development                                 │
-│  ⚙️  Backend Architecture & APIs                           │
-│  🗄️  Database Design & Data Engineering                    │
-│  🤖 Artificial Intelligence & Machine Learning             │
-│  📊 Data Analysis & Visualization                          │
-│  🔐 Authentication & Application Security                  │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-📈 My Development Philosophy
+- 🌐 **Modern Web Development**
+- ⚙️ **Backend Architecture & APIs**
+- 🗄️ **Database Design & Data Engineering**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 📊 **Data Analysis & Visualization**
+- 🔐 **Authentication & Application Security**
 
-Build things that solve real problems.
+---
+
+# 📈 My Development Philosophy
+
+> **Build things that solve real problems.**
 
 I believe good software should not only work, but should also be:
 
-Maintainable · Understandable · Reliable · Scalable · Useful
+**Maintainable · Understandable · Reliable · Scalable · Useful**
 
-🤝 Let's Connect
-<div align="center"> <a href="https://github.com/yasuyyy16"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="www.linkedin.com/in/alghazi16"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div> <br> <div align="center"> <img src="https://komarev.com/ghpvc/?username=yasuyyy16&style=for-the-badge&label=PROFILE+VIEWS" />
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/yasuyyy16">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=yasuyyy16&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br><br>
 
 <i>Thanks for visiting my profile.</i>
 
-</div> <!-- ======================= FOOTER ======================= --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%"/> ```
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
