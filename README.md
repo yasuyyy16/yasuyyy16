@@ -25,9 +25,11 @@
 
 # 👋 About Me
 
-I'm **Muhammad Yassir Al 'Ghazi Wattiheluw**, an Informatics student at **Telkom University** with an interest in software development, data, and artificial intelligence.
+I'm a **Telkom University Informatics graduate** with an interest in software development, data, and artificial intelligence.
 
-I enjoy building practical applications, designing data-driven systems, and exploring how modern technologies can be used to solve real-world problems.
+Currently, I'm working at the **Ministry of Marine Affairs and Fisheries (Kementerian Kelautan dan Perikanan)**, where I contribute to technology-driven solutions and digitalization initiatives.
+
+I enjoy building practical systems, working with data, and exploring modern technologies to turn technical concepts into useful and maintainable applications.
 
 ### Currently focused on
 
