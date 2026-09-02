@@ -72,44 +72,64 @@ I enjoy building practical systems, working with data, and exploring modern tech
 
 ---
 
-# 🚀 Featured Projects
+<h1>🚀 Featured Projects</h1>
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-      ### 📊 Dashboard Kepegawaian P3K
+      <h3>📊 Dashboard Kepegawaian P3K</h3>
 
-      Internal employee management dashboard for monitoring and managing personnel data.
+      <p>
+        Internal employee management dashboard for monitoring and managing
+        personnel data.
+      </p>
 
-      **Tech Stack**
+      <strong>Tech Stack</strong>
 
-      `Next.js` `TypeScript` `Tailwind CSS`  
-      `Prisma` `PostgreSQL`
-
-      <br>
+      <p>
+        <code>Next.js</code>
+        <code>TypeScript</code>
+        <code>Tailwind CSS</code>
+        <br>
+        <code>Prisma</code>
+        <code>PostgreSQL</code>
+      </p>
 
       <a href="https://github.com/yasuyyy16/dashboard-kepegawaian-P3K">
-        <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+        <img
+          src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"
+          alt="View Repository"
+        />
       </a>
 
     </td>
 
     <td width="50%" valign="top">
 
-      ### ❤️ Heart Failure Prediction
+      <h3>❤️ Heart Failure Prediction</h3>
 
-      Machine learning research project focused on heart failure mortality prediction and explainable AI.
+      <p>
+        Machine learning research project focused on heart failure mortality
+        prediction and explainable AI.
+      </p>
 
-      **Tech Stack**
+      <strong>Tech Stack</strong>
 
-      `Python` `Jupyter Notebook`  
-      `TabNet` `SHAP` `Scikit-learn`
-
-      <br>
+      <p>
+        <code>Python</code>
+        <code>Jupyter Notebook</code>
+        <br>
+        <code>TabNet</code>
+        <code>SHAP</code>
+        <code>Scikit-learn</code>
+      </p>
 
       <a href="https://github.com/yasuyyy16/heart-failure-tabnet-shap">
-        <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+        <img
+          src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"
+          alt="View Repository"
+        />
       </a>
 
     </td>
@@ -118,14 +138,17 @@ I enjoy building practical systems, working with data, and exploring modern tech
   <tr>
     <td colspan="2" align="center">
 
-      ### 💡 More Projects
+      <h3>💡 More Projects</h3>
 
-      Explore my other experiments, applications, and development projects.
-
-      <br>
+      <p>
+        Explore my other experiments, applications, and development projects.
+      </p>
 
       <a href="https://github.com/yasuyyy16?tab=repositories">
-        <img src="https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+        <img
+          src="https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"
+          alt="Explore All Repositories"
+        />
       </a>
 
     </td>
