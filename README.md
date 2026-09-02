@@ -75,53 +75,61 @@ I enjoy building practical systems, working with data, and exploring modern tech
 # 🚀 Featured Projects
 
 <table>
-<tr>
+  <tr>
+    <td width="50%" valign="top">
 
-<td width="50%">
+      ### 📊 Dashboard Kepegawaian P3K
 
-### 📊 Dashboard Kepegawaian P3K
+      Internal employee management dashboard for monitoring and managing personnel data.
 
-Internal employee management dashboard for monitoring and managing personnel data.
+      **Tech Stack**
 
-**Tech Stack**
+      `Next.js` `TypeScript` `Tailwind CSS`  
+      `Prisma` `PostgreSQL`
 
-`Next.js` `TypeScript` `Tailwind CSS`  
-`Prisma` `PostgreSQL`
+      <br>
 
-<a href="https://github.com/yasuyyy16/dashboard-kepegawaian-P3K">
-  <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+      <a href="https://github.com/yasuyyy16/dashboard-kepegawaian-P3K">
+        <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
 
-</td>
+    </td>
 
-<td width="50%">
-### ❤️ Heart Failure Prediction
+    <td width="50%" valign="top">
 
-Machine learning research project focused on heart failure mortality prediction and explainable AI.
+      ### ❤️ Heart Failure Prediction
 
-**Tech Stack**
+      Machine learning research project focused on heart failure mortality prediction and explainable AI.
 
-`Python` `Jupyter Notebook`  
-`TabNet` `SHAP` `Scikit-learn`
+      **Tech Stack**
 
-<a href="https://github.com/yasuyyy16/heart-failure-tabnet-shap">
-  <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+      `Python` `Jupyter Notebook`  
+      `TabNet` `SHAP` `Scikit-learn`
 
-</td>
+      <br>
 
-<td width="50%">
-### 💡 More Projects
+      <a href="https://github.com/yasuyyy16/heart-failure-tabnet-shap">
+        <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
 
-Explore my repositories to see other experiments, coursework, applications, and development projects.
+    </td>
+  </tr>
 
-<a href="https://github.com/yasuyyy16?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <tr>
+    <td colspan="2" align="center">
 
-</td>
+      ### 💡 More Projects
 
-</tr>
+      Explore my other experiments, applications, and development projects.
+
+      <br>
+
+      <a href="https://github.com/yasuyyy16?tab=repositories">
+        <img src="https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+
+    </td>
+  </tr>
 </table>
 
 ---
