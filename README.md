@@ -1,8 +1,8 @@
 <!-- ======================= HEADER ======================= -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Muhammad%20Yassir%20Al%20%27Ghazi%20Wattiheluw&fontSize=32&fontColor=ffffff&fontAlignY=35&desc=Informatics%20%7C%20Software%20Development%20%7C%20Data%20%26%20AI&descAlignY=55&descSize=16" width="100%"/>
+  <img src="./Kuriyama.gif" width="100%">
+</div>
 
 <br>
 
