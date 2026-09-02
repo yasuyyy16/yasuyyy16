@@ -215,5 +215,5 @@ I believe good software should not only work, but should also be:
 </div>
 
 <div align="center">
-  <img src="./Persona 3R.gif" width="100%">
+  <img src="./Persona3R.gif" width="100%">
 </div>
