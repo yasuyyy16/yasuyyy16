@@ -1,68 +1,159 @@
+<!-- ======================= HEADER ======================= -->
+
 <div align="center">
 
-# Muhammad Yassir Al 'Ghazi Wattiheluw
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Muhammad%20Yassir%20Al%20%27Ghazi%20Wattiheluw&fontSize=32&fontColor=ffffff&fontAlignY=35&desc=Informatics%20%7C%20Software%20Development%20%7C%20Data%20%26%20AI&descAlignY=55&descSize=16" width="100%"/>
 
-### Informatics Student · Software Developer · Data & AI Enthusiast
+<br>
 
-<p>
-  <a href="https://github.com/yasuyyy16">
-    <img src="https://img.shields.io/github/followers/yasuyyy16?label=Followers&style=for-the-badge&logo=github">
-  </a>
-  <a href="https://github.com/yasuyyy16?tab=repositories">
-    <img src="https://img.shields.io/github/stars/yasuyyy16?label=Stars&style=for-the-badge&logo=github">
-  </a>
-</p>
+<a href="https://github.com/yasuyyy16">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Informatics+Student+%7C+Software+Developer;Building+Practical+Software+Solutions;Exploring+Data%2C+AI%2C+and+Modern+Web+Development;Always+Learning+%7C+Always+Building" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/yasuyyy16">
+  <img src="https://img.shields.io/github/followers/yasuyyy16?style=for-the-badge&logo=github&label=Followers" />
+</a>
+<a href="https://github.com/yasuyyy16?tab=repositories">
+  <img src="https://img.shields.io/github/stars/yasuyyy16?style=for-the-badge&logo=github&label=Stars" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+# 👋 About Me
 
-I'm an Informatics student with an interest in **software development, data, and artificial intelligence**.
+I'm **Muhammad Yassir Al 'Ghazi Wattiheluw**, an Informatics student at **Telkom University** with an interest in software development, data, and artificial intelligence.
 
-I enjoy building practical systems, experimenting with modern technologies, and turning technical concepts into usable applications.
+I enjoy building practical applications, designing data-driven systems, and exploring how modern technologies can be used to solve real-world problems.
 
-Currently exploring:
+### Currently focused on
 
-- Full-stack web development
-- Data processing & visualization
-- Artificial Intelligence & Machine Learning
-- Backend development
-- Database design
-- Software engineering
+- 🌐 Full-stack web development
+- ⚙️ Backend engineering & API development
+- 🗄️ Database design & data management
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data processing & visualization
+- 🧠 Software engineering practices
 
 ---
 
-## Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,php,sql" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,php,sql" />
 </p>
 
-### Frameworks & Tools
+### Web & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,tailwind,prisma" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,tailwind" />
 </p>
 
-### Data & Development
+### Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma,git,github,vscode,docker" />
 </p>
+
+### Data & AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`Jupyter Notebook` · `Pandas` · `NumPy` · `Scikit-learn` · `SHAP` · `Machine Learning`
 
 ---
 
-## GitHub Analytics
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📊 Dashboard Kepegawaian P3K
+
+Internal employee management dashboard for monitoring and managing personnel data.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS`  
+`Prisma` `PostgreSQL`
+
+<a href="https://github.com/yasuyyy16/dashboard-kepegawaian-P3K">
+  <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🔔 Remindly
+
+Reminder application designed to help users manage tasks and scheduled reminders.
+
+**Tech Stack**
+
+`Python` `FastAPI` `SQLAlchemy`  
+`JWT` `Database`
+
+<a href="https://github.com/yasuyyy16/Remindly">
+  <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ❤️ Heart Failure Prediction
+
+Machine learning research project focused on heart failure mortality prediction and explainable AI.
+
+**Tech Stack**
+
+`Python` `Jupyter Notebook`  
+`TabNet` `SHAP` `Scikit-learn`
+
+<a href="https://github.com/yasuyyy16/heart-failure-tabnet-shap">
+  <img src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💡 More Projects
+
+Explore my repositories to see other experiments, coursework, applications, and development projects.
+
+<a href="https://github.com/yasuyyy16?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasuyyy16&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yasuyyy16&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuyyy16&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuyyy16&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -76,45 +167,32 @@ Currently exploring:
 
 ---
 
-## Featured Projects
-
-### 📊 Dashboard Kepegawaian P3K
-
-Internal employee management dashboard designed to support personnel data monitoring and administration.
-
-**Stack:** Next.js · TypeScript · Tailwind CSS · Prisma · PostgreSQL
-
-<a href="https://github.com/yasuyyy16/dashboard-kepegawaian-P3K">
-  View Repository →
-</a>
-
----
-
-### 🔔 Remindly
-
-A reminder application designed to help users manage tasks and scheduled reminders.
-
-**Stack:** Python · FastAPI · SQLAlchemy · JWT · Database
-
----
-
-### 🤖 Machine Learning Research
-
-Worked on machine learning experimentation involving **classification, transfer learning, model evaluation, and explainable AI**.
-
-**Tools:** Python · Jupyter Notebook · Scikit-learn · TabNet · SHAP
-
----
-
-## What I'm Working On
+# 🧠 What I'm Exploring
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  Building practical software                               │
-│  Exploring AI & Machine Learning                           │
-│  Improving backend & database engineering                  │
-│  Learning modern web development                           │
-│  Developing better software engineering practices          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  🌐 Modern Web Development                                 │
+│  ⚙️  Backend Architecture & APIs                           │
+│  🗄️  Database Design & Data Engineering                    │
+│  🤖 Artificial Intelligence & Machine Learning             │
+│  📊 Data Analysis & Visualization                          │
+│  🔐 Authentication & Application Security                  │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+📈 My Development Philosophy
+
+Build things that solve real problems.
+
+I believe good software should not only work, but should also be:
+
+Maintainable · Understandable · Reliable · Scalable · Useful
+
+🤝 Let's Connect
+<div align="center"> <a href="https://github.com/yasuyyy16"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="www.linkedin.com/in/alghazi16"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </div> <br> <div align="center"> <img src="https://komarev.com/ghpvc/?username=yasuyyy16&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br><br>
+
+<i>Thanks for visiting my profile.</i>
+
+</div> <!-- ======================= FOOTER ======================= --> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%"/> ```
