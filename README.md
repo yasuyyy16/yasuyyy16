@@ -94,9 +94,6 @@ Internal employee management dashboard for monitoring and managing personnel dat
 
 </td>
 
-<td width="50%">
-
-<td width="50%">
 
 ### ❤️ Heart Failure Prediction
 
