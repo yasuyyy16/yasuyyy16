@@ -214,4 +214,6 @@ I believe good software should not only work, but should also be:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
+<div align="center">
+  <img src="./P3R-footer.gif" width="100%">
+</div>
