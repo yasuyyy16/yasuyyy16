@@ -1,22 +1,23 @@
 <!-- ======================= HEADER ======================= -->
 
 <div align="center">
-  <img src="./Kuriyama.gif" width="100%">
-</div>
 
-<br>
+<img src="./Kuriyama.gif" width="100%">
+
+<br><br>
 
 <a href="https://github.com/yasuyyy16">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Informatics+Student+%7C+Software+Developer;Building+Practical+Software+Solutions;Exploring+Data%2C+AI%2C+and+Modern+Web+Development;Always+Learning+%7C+Always+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Informatics+Graduate+%7C+Software+Developer;Building+Practical+Software+Solutions;Exploring+Data%2C+AI%2C+and+Modern+Web+Development;Always+Learning+%7C+Always+Building">
 </a>
 
 <br><br>
 
 <a href="https://github.com/yasuyyy16">
-  <img src="https://img.shields.io/github/followers/yasuyyy16?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/followers/yasuyyy16?style=for-the-badge&logo=github&label=Followers">
 </a>
+
 <a href="https://github.com/yasuyyy16?tab=repositories">
-  <img src="https://img.shields.io/github/stars/yasuyyy16?style=for-the-badge&logo=github&label=Stars" />
+<img src="https://img.shields.io/github/stars/yasuyyy16?style=for-the-badge&logo=github&label=Stars">
 </a>
 
 </div>
@@ -25,20 +26,20 @@
 
 # 👋 About Me
 
-I'm a **Telkom University Informatics graduate** with an interest in software development, data, and artificial intelligence.
+I'm a **Telkom University Informatics graduate** with an interest in **software development, data, and artificial intelligence**.
 
 Currently, I'm working at the **Ministry of Marine Affairs and Fisheries (Kementerian Kelautan dan Perikanan)**, where I contribute to technology-driven solutions and digitalization initiatives.
 
 I enjoy building practical systems, working with data, and exploring modern technologies to turn technical concepts into useful and maintainable applications.
 
-### Currently focused on
+### 🎯 Areas of Interest
 
-- 🌐 Full-stack web development
-- ⚙️ Backend engineering & API development
-- 🗄️ Database design & data management
+- 🌐 Full-Stack Web Development
+- ⚙️ Backend Engineering & API Development
+- 🗄️ Database Design & Data Management
 - 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data processing & visualization
-- 🧠 Software engineering practices
+- 📊 Data Processing & Visualization
+- 🧠 Software Engineering
 
 ---
 
@@ -47,113 +48,71 @@ I enjoy building practical systems, working with data, and exploring modern tech
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,php,sql" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,php,sql">
 </p>
 
 ### Web & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,tailwind" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,fastapi,tailwind">
 </p>
 
 ### Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma,git,github,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,prisma,git,github,vscode,docker">
 </p>
 
 ### Data & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=python">
 </p>
 
-`Jupyter Notebook` · `Pandas` · `NumPy` · `Scikit-learn` · `SHAP` · `Machine Learning`
+<p>
+<code>Jupyter Notebook</code> ·
+<code>Pandas</code> ·
+<code>NumPy</code> ·
+<code>Scikit-learn</code> ·
+<code>SHAP</code> ·
+<code>Machine Learning</code>
+</p>
 
 ---
 
-<h1>🚀 Featured Projects</h1>
+# 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+## 📊 Dashboard Kepegawaian P3K
 
-      <h3>📊 Dashboard Kepegawaian P3K</h3>
+Internal employee management dashboard for monitoring and managing personnel data.
 
-      <p>
-        Internal employee management dashboard for monitoring and managing
-        personnel data.
-      </p>
+**Tech Stack**
 
-      <strong>Tech Stack</strong>
+`Next.js` `TypeScript` `Tailwind CSS`  
+`Prisma` `PostgreSQL`
 
-      <p>
-        <code>Next.js</code>
-        <code>TypeScript</code>
-        <code>Tailwind CSS</code>
-        <br>
-        <code>Prisma</code>
-        <code>PostgreSQL</code>
-      </p>
+[![View Repository](https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasuyyy16/dashboard-kepegawaian-P3K)
 
-      <a href="https://github.com/yasuyyy16/dashboard-kepegawaian-P3K">
-        <img
-          src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"
-          alt="View Repository"
-        />
-      </a>
+---
 
-    </td>
+## ❤️ Heart Failure Prediction
 
-    <td width="50%" valign="top">
+Machine learning research project focused on heart failure mortality prediction and explainable AI.
 
-      <h3>❤️ Heart Failure Prediction</h3>
+**Tech Stack**
 
-      <p>
-        Machine learning research project focused on heart failure mortality
-        prediction and explainable AI.
-      </p>
+`Python` `Jupyter Notebook`  
+`TabNet` `SHAP` `Scikit-learn`
 
-      <strong>Tech Stack</strong>
+[![View Repository](https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasuyyy16/heart-failure-tabnet-shap)
 
-      <p>
-        <code>Python</code>
-        <code>Jupyter Notebook</code>
-        <br>
-        <code>TabNet</code>
-        <code>SHAP</code>
-        <code>Scikit-learn</code>
-      </p>
+---
 
-      <a href="https://github.com/yasuyyy16/heart-failure-tabnet-shap">
-        <img
-          src="https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"
-          alt="View Repository"
-        />
-      </a>
+## 💡 More Projects
 
-    </td>
-  </tr>
+Explore my other experiments, applications, and development projects.
 
-  <tr>
-    <td colspan="2" align="center">
-
-      <h3>💡 More Projects</h3>
-
-      <p>
-        Explore my other experiments, applications, and development projects.
-      </p>
-
-      <a href="https://github.com/yasuyyy16?tab=repositories">
-        <img
-          src="https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white"
-          alt="Explore All Repositories"
-        />
-      </a>
-
-    </td>
-  </tr>
-</table>
+[![Explore All Repositories](https://img.shields.io/badge/Explore%20All%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasuyyy16?tab=repositories)
 
 ---
 
@@ -161,17 +120,13 @@ I enjoy building practical systems, working with data, and exploring modern tech
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yasuyyy16&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yasuyyy16&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuyyy16&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasuyyy16&layout=compact&langs_count=8&hide_border=true&theme=transparent">
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yasuyyy16&hide_border=true&theme=transparent" />
+<img src="https://streak-stats.demolab.com?user=yasuyyy16&hide_border=true&theme=transparent">
 
 </div>
 
@@ -188,7 +143,7 @@ I enjoy building practical systems, working with data, and exploring modern tech
 
 ---
 
-# 📈 My Development Philosophy
+# 📈 Development Philosophy
 
 > **Build things that solve real problems.**
 
@@ -203,20 +158,16 @@ I believe good software should not only work, but should also be:
 <div align="center">
 
 <a href="https://github.com/yasuyyy16">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yasuyyy16&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=yasuyyy16&style=for-the-badge&label=PROFILE+VIEWS">
 
 <br><br>
 
@@ -224,6 +175,12 @@ I believe good software should not only work, but should also be:
 
 </div>
 
+<br>
+
+<!-- ======================= FOOTER ======================= -->
+
 <div align="center">
-  <img src="./Persona3R.gif" width="100%">
+
+<img src="./Persona3R.gif" width="100%">
+
 </div>
