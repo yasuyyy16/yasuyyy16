@@ -111,7 +111,6 @@ Machine learning research project focused on heart failure mortality prediction 
 </td>
 
 <td width="50%">
-
 ### 💡 More Projects
 
 Explore my repositories to see other experiments, coursework, applications, and development projects.
