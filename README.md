@@ -94,7 +94,7 @@ Internal employee management dashboard for monitoring and managing personnel dat
 
 </td>
 
-
+<td width="50%">
 ### ❤️ Heart Failure Prediction
 
 Machine learning research project focused on heart failure mortality prediction and explainable AI.
